@@ -1,0 +1,10 @@
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\WindowsFormsAES.Properties.Resources.resources
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\WindowsFormsAES.csproj.GenerateResource.cache
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\WindowsFormsAES.csproj.CoreCompileInputs.cache
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\WindowsFormsAES.Form_AES.resources
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\WindowsFormsAES.Form_paint.resources
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\bin\Debug\AES Encryptor.exe.config
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\bin\Debug\AES Encryptor.exe
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\bin\Debug\AES Encryptor.pdb
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\AES Encryptor.exe
+D:\desktop\数缘科技\AES编写\AES128\WindowsFormsAES\WindowsFormsAES\obj\Debug\AES Encryptor.pdb
